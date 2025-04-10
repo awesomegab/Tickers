@@ -1,0 +1,412 @@
+,Ticker,Nome
+0,HAPV3.SA,Hapvida
+1,COGN3.SA,Cogna
+2,PETR4.SA,Petrobras
+3,BBDC4.SA,Banco Bradesco
+4,MGLU3.SA,Magazine Luiza
+5,VALE3.SA,Vale
+6,ABEV3.SA,Ambev
+7,ITSA4.SA,Itaúsa
+8,ITUB4.SA,Itaú Unibanco
+9,B3SA3.SA,B3
+10,CSAN3.SA,Cosan
+11,BEEF3.SA,Minerva
+12,GOAU4.SA,Metalúrgica Gerdau
+13,CPLE6.SA,Copel
+14,CVCB3.SA,CVC
+15,BBAS3.SA,Banco do Brasil
+16,GGBR4.SA,Gerdau
+17,POMO4.SA,Marcopolo
+18,ASAI3.SA,Assaí
+19,PETR3.SA,Petrobras
+20,LREN3.SA,Lojas Renner
+21,AMOB3.SA,Automob
+22,CMIG4.SA,Cemig
+23,PRIO3.SA,PetroRio
+24,NTCO3.SA,Natura
+25,CSNA3.SA,Siderúrgica Nacional
+26,IFCM3.SA,Infracommerce
+27,BRAV3.SA,3R Petroleum
+28,RAIZ4.SA,Raízen
+29,BPAC11.SA,Banco BTG Pactual
+30,ANIM3.SA,Ânima Educação
+31,CBAV3.SA,CBA
+32,RADL3.SA,RaiaDrogasil
+33,MRVE3.SA,MRV
+34,LWSA3.SA,Locaweb
+35,USIM5.SA,Usiminas
+36,RDOR3.SA,Rede D'Or
+37,PETZ3.SA,Petz
+38,CRFB3.SA,Carrefour Brasil
+39,AZUL4.SA,Azul
+40,RENT3.SA,Localiza
+41,VAMO3.SA,Grupo Vamos
+42,GFSA3.SA,Gafisa
+43,CCRO3.SA,Grupo CCR
+44,BHIA3.SA,Casas Bahia
+45,VBBR3.SA,Vibra Energia
+46,SUZB3.SA,Suzano
+47,MULT3.SA,Multiplan
+48,OIBR3.SA,Oi
+49,PCAR3.SA,Grupo Pão de Açúcar
+50,JBSS3.SA,JBS
+51,BRAP4.SA,Bradespar
+52,ELET3.SA,Eletrobras
+53,BBDC3.SA,Banco Bradesco
+54,EQTL3.SA,Equatorial Energia
+55,UGPA3.SA,Ultrapar
+56,CMIN3.SA,CSN Mineração
+57,WEGE3.SA,WEG
+58,RAIL3.SA,Rumo
+59,EMBR3.SA,Embraer
+60,TIMS3.SA,TIM
+61,ECOR3.SA,EcoRodovias
+62,CYRE3.SA,Cyrela
+63,RAPT4.SA,Randon
+64,SIMH3.SA,Simpar
+65,HYPE3.SA,Hypera
+66,CPLE3.SA,Copel
+67,PMAM3.SA,Paranapanema
+68,ENEV3.SA,Eneva
+69,BRKM5.SA,Braskem
+70,KLBN11.SA,Klabin
+71,MOVI3.SA,Movida
+72,AURE3.SA,Auren Energia
+73,CXSE3.SA,Caixa Seguridade
+74,BBSE3.SA,BB Seguridade
+75,AMER3.SA,Americanas
+76,SRNA3.SA,Serena Energia
+77,BRFS3.SA,BRF
+78,ENGI11.SA,Energisa
+79,HBSA3.SA,Hidrovias do Brasil
+80,JHSF3.SA,JHSF
+81,STBP3.SA,Santos Brasil
+82,CPFE3.SA,CPFL Energia
+83,MRFG3.SA,Marfrig
+84,TOTS3.SA,Totvs
+85,GMAT3.SA,Grupo Mateus
+86,ALOS3.SA,Allos
+87,KLBN4.SA,Klabin
+88,FLRY3.SA,Fleury
+89,RECV3.SA,PetroRecôncavo
+90,LJQQ3.SA,Lojas Quero-Quero
+91,AZEV4.SA,Azevedo & Travassos
+92,YDUQ3.SA,YDUQS
+93,CEAB3.SA,C&A
+94,DXCO3.SA,Dexco
+95,SMFT3.SA,Smart Fit
+96,PSSA3.SA,Porto Seguro
+97,ISAE4.SA,ISA Energia
+98,AZZA3.SA,Arezzo
+99,INTB3.SA,Intelbras
+100,QUAL3.SA,Qualicorp
+101,DIRR3.SA,Direcional
+102,GUAR3.SA,Guararapes
+103,AZEV3.SA,Azevedo & Travassos
+104,SBSP3.SA,Sabesp
+105,SMTO3.SA,São Martinho
+106,RCSL4.SA,Recrusul
+107,SLCE3.SA,SLC Agrícola
+108,CURY3.SA,Cury
+109,ONCO3.SA,Oncoclínicas
+110,CAML3.SA,Camil Alimentos
+111,VIVA3.SA,Vivara
+112,ALPA4.SA,Alpargatas
+113,IGTI11.SA,Iguatemi
+114,IGTI11.SA,Jereissati Participações
+115,GOLL4.SA,GOL
+116,CSMG3.SA,COPASA
+117,MLAS3.SA,Multilaser
+118,SANB11.SA,Banco Santander
+119,EZTC3.SA,EZTEC
+120,ELET6.SA,Eletrobras
+121,ARML3.SA,Armac
+122,TEND3.SA,Construtora Tenda
+123,GGPS3.SA,GPS
+124,GRND3.SA,Grendene
+125,SAPR4.SA,Sanepar
+126,TAEE11.SA,Taesa
+127,NEOE3.SA,Neoenergia
+128,VIVT3.SA,Vivo
+129,KEPL3.SA,Kepler Weber
+130,BPAN4.SA,Banco Pan
+131,POSI3.SA,Positivo
+132,EGIE3.SA,Engie
+133,ODPV3.SA,Odontoprev
+134,BRSR6.SA,Banrisul
+135,SOJA3.SA,Boa Safra Sementes
+136,CSED3.SA,Cruzeiro do Sul Educacional
+137,FESA4.SA,Ferbasa
+138,SBFG3.SA,Grupo SBF
+139,VVEO3.SA,Viveo
+140,PGMN3.SA,Pague Menos
+141,PORT3.SA,Wilson Sons
+142,HBRE3.SA,HBR Realty
+143,LIGT3.SA,Light
+144,TUPY3.SA,Tupy
+145,TECN3.SA,Technos
+146,LEVE3.SA,Mahle Metal Leve
+147,IRBR3.SA,IRB Brasil RE
+148,MYPK3.SA,Iochpe-Maxion
+149,SEER3.SA,Ser Educacional
+150,MELK3.SA,Melnick
+151,SAPR11.SA,Sanepar
+152,EVEN3.SA,Even
+153,SHUL4.SA,Schulz
+154,TTEN3.SA,3tentos
+155,LAVV3.SA,Lavvi Incorporadora
+156,OPCT3.SA,OceanPact
+157,ENJU3.SA,Enjoei
+158,POMO3.SA,Marcopolo
+159,AERI3.SA,Aeris Energy
+160,MTRE3.SA,Mitre Realty
+161,MILS3.SA,Mills
+162,ITUB3.SA,Itaú Unibanco
+163,BMGB4.SA,Banco BMG
+164,KLBN3.SA,Klabin
+165,ESPA3.SA,Espaçolaser
+166,ALUP11.SA,Alupar
+167,ZAMP3.SA,Zamp
+168,HBOR3.SA,Helbor
+169,RANI3.SA,Irani
+170,PDGR3.SA,PDG Realty
+171,PLPL3.SA,Plano&Plano
+172,MDIA3.SA,M. Dias Branco
+173,MATD3.SA,Mater Dei
+174,MEAL3.SA,IMC Alimentação
+175,MDNE3.SA,Moura Dubeux
+176,DASA3.SA,Dasa
+177,VULC3.SA,Vulcabras
+178,AGXY3.SA,AgroGalaxy
+179,JSLG3.SA,JSL
+180,JALL3.SA,Jalles Machado
+181,SYNE3.SA,SYN
+182,SEQL3.SA,Sequoia Logística
+183,AMAR3.SA,Lojas Marisa
+184,ABCB4.SA,Banco ABC Brasil
+185,RCSL3.SA,Recrusul
+186,AGRO3.SA,BrasilAgro
+187,PFRM3.SA,Profarma
+188,CASH3.SA,Méliuz
+189,FIQE3.SA,Unifique
+190,VTRU3.SA,VITRUBREPCOM
+191,PTBL3.SA,Portobello
+192,TRIS3.SA,Trisul
+193,PINE4.SA,Banco Pine
+194,CMIG3.SA,Cemig
+195,BRBI11.SA,BR Partners
+196,TASA4.SA,Taurus
+197,BMOB3.SA,Bemobi
+198,WIZC3.SA,Wiz Soluções
+199,BRST3.SA,Brisanet
+200,RNEW4.SA,Renova Energia
+201,BLAU3.SA,Blau Farmacêutica
+202,USIM3.SA,Usiminas
+203,VLID3.SA,Valid
+204,LOGG3.SA,LOG CP
+205,ELMD3.SA,Eletromidia
+206,ORVR3.SA,Orizon
+207,TCSA3.SA,Tecnisa
+208,BRAP3.SA,Bradespar
+209,TFCO4.SA,Track & Field
+210,FRAS3.SA,Fras-le
+211,PRNR3.SA,Priner
+212,DESK3.SA,Desktop
+213,TGMA3.SA,Tegma
+214,PNVL3.SA,Dimed
+215,AALR3.SA,Alliança
+216,VITT3.SA,Vittia
+217,MBLY3.SA,Mobly
+218,UNIP6.SA,Unipar
+219,ITSA3.SA,Itaúsa
+220,SAPR3.SA,Sanepar
+221,TAEE4.SA,Taesa
+222,VIVR3.SA,Viver
+223,AMBP3.SA,Ambipar
+224,SCAR3.SA,São Carlos
+225,ROMI3.SA,Indústrias ROMI
+226,GGBR3.SA,Gerdau
+227,DEXP3.SA,Dexxos
+228,ETER3.SA,Eternit
+229,DMVF3.SA,D1000 Varejo Farma
+230,TAEE3.SA,Taesa
+231,SANB4.SA,Banco Santander
+232,SHOW3.SA,Time For Fun
+233,PDTC3.SA,Padtec
+234,ALPK3.SA,Estapar
+235,TPIS3.SA,Triunfo
+236,LUPA3.SA,Lupatech
+237,RNEW3.SA,Renova Energia
+238,GOAU3.SA,Metalúrgica Gerdau
+239,OIBR4.SA,Oi
+240,SANB3.SA,Banco Santander
+241,LPSB3.SA,Lopes
+242,BRKM3.SA,Braskem
+243,EUCA4.SA,Eucatex
+244,RAPT3.SA,Randon
+245,CAMB3.SA,Cambuci
+246,INEP4.SA,Inepar
+247,UCAS3.SA,Unicasa
+248,IGTI3.SA,Iguatemi
+249,IGTI3.SA,Jereissati Participações
+250,ALLD3.SA,Allied
+251,FICT3.SA,Fictor Alimentos
+252,BPAC3.SA,Banco BTG Pactual
+253,INEP3.SA,Inepar
+254,RSID3.SA,Rossi Residencial
+255,NGRD3.SA,Neogrid
+256,BPAC5.SA,Banco BTG Pactual
+257,LOGN3.SA,Log-In
+258,BIED3.SA,BIED3
+259,LAND3.SA,Terra Santa
+260,LVTC3.SA,WDC Networks
+261,ALUP4.SA,Alupar
+262,AVLL3.SA,Alphaville
+263,CSUD3.SA,CSU Cardsystem
+264,EALT4.SA,Electro Aço Altona
+265,PINE3.SA,Banco Pine
+266,BSLI3.SA,Banco de Brasília
+267,CGRA4.SA,Grazziotin
+268,FHER3.SA,Fertilizantes Heringer
+269,UNIP3.SA,Unipar
+270,ENGI4.SA,Energisa
+271,JFEN3.SA,João Fortes
+272,ISAE3.SA,ISA Energia
+273,DASA11.SA,DASA11
+274,BSLI4.SA,Banco de Brasília
+275,BMEB4.SA,Banco Mercantil do Brasil
+276,TRAD3.SA,Traders Club
+277,EQPA3.SA,Equatorial Energia Pará
+278,EMAE4.SA,EMAE
+279,BOBR4.SA,Bombril
+280,BEES3.SA,Banestes
+281,DEXP4.SA,Dexxos
+282,RNEW11.SA,Renova Energia
+283,BIOM3.SA,Biomm
+284,BRSR3.SA,Banrisul
+285,ALUP3.SA,Alupar
+286,DOTZ3.SA,Dotz
+287,ATMP3.SA,Atma
+288,TASA3.SA,Taurus
+289,ENGI3.SA,Energisa
+290,CEBR3.SA,CEB
+291,CEBR6.SA,CEB
+292,CLSC4.SA,Celesc
+293,RPMG3.SA,Refinaria de Manguinhos
+294,WHRL4.SA,Whirlpool
+295,OSXB3.SA,OSX Brasil
+296,COCE5.SA,Coelce
+297,BEES4.SA,Banestes
+298,ESTR4.SA,Estrela
+299,RSUL4.SA,Metalúrgica Riosulense
+300,ATED3.SA,ATOM EDUCAÇÃO E EDITORA S.A.
+301,BGIP4.SA,Banese
+302,MNPR3.SA,Minupar
+303,HOOT4.SA,Hotéis Othon
+304,EPAR3.SA,Embpar Participações
+305,BAZA3.SA,Banco da Amazônia
+306,VSTE3.SA,LE LIS BLANC
+307,HAGA3.SA,Haga
+308,MTSA4.SA,Metisa
+309,CGRA3.SA,Grazziotin
+310,CEBR5.SA,CEB
+311,NUTR3.SA,Nutriplant
+312,AMAR11.SA,Lojas Marisa
+313,BMEB3.SA,Banco Mercantil do Brasil
+314,PATI3.SA,Panatlântica
+315,RDNI3.SA,RNI
+316,WHRL3.SA,Whirlpool
+317,WLMM4.SA,WLM
+318,PTNT4.SA,Pettenati
+319,AZEV11.SA,Azevedo & Travassos
+320,CRPG5.SA,Tronox Pigmentos
+321,REDE3.SA,Rede Energia
+322,ALPA3.SA,Alpargatas
+323,CTKA4.SA,Karsten
+324,WEST3.SA,Westwing
+325,KRSA3.SA,Kora Saúde
+326,MRSA3B.SA,MRS Logística
+327,HAGA4.SA,Haga
+328,EKTR4.SA,Elektro
+329,MNDL3.SA,Mundial
+330,SNSY3.SA,Sansuy
+331,CGAS3.SA,Comgás
+332,ENMT3.SA,Energisa MT
+333,CEDO3.SA,Cedro Têxtil
+334,CEDO4.SA,Cedro Têxtil
+335,CEED3.SA,CEEE D
+336,TELB4.SA,Telebras
+337,NORD3.SA,Nordon
+338,PSVM11.SA,PORTO VM
+339,MGEL4.SA,Mangels
+340,REAG3.SA,REAG3
+341,DOHL4.SA,Döhler
+342,CTSA3.SA,Santanense
+343,UNIP5.SA,Unipar
+344,BMIN4.SA,Banco Mercantil de Investimentos
+345,BRSR5.SA,Banrisul
+346,SNSY5.SA,Sansuy
+347,MOAR3.SA,Monteiro Aranha
+348,CEEB3.SA,COELBA
+349,EALT3.SA,Electro Aço Altona
+350,CPLE5.SA,Copel
+351,NEXP3.SA,Brasil Brokers
+352,TKNO4.SA,Tekno
+353,SOND5.SA,Sondotécnica
+354,LIPR3.SA,Eletropar
+355,GEPA4.SA,Rio Paranapanema Energia
+356,HBTS5.SA,Habitasul
+357,BGIP3.SA,Banese
+358,GPAR3.SA,CELGPAR
+359,OFSA3.SA,Ourofino Saúde Animal
+360,BMIN3.SA,Banco Mercantil de Investimentos
+361,FESA3.SA,Ferbasa
+362,BDLL3.SA,Bardella
+363,PTNT3.SA,Pettenati
+364,DTCY3.SA,Dtcom
+365,RPAD3.SA,Alfa Holdings
+366,CTSA4.SA,Santanense
+367,PPLA11.SA,PPLA
+368,BMKS3.SA,Monark
+369,RPAD6.SA,Alfa Holdings
+370,BALM4.SA,Baumer
+371,PEAB3.SA,Participações Aliança da Bahia
+372,CGAS5.SA,Comgás
+373,EQPA5.SA,Equatorial Energia Pará
+374,TELB3.SA,Telebras
+375,MERC4.SA,Mercantil do Brasil Financeira
+376,BRKM6.SA,Braskem
+377,EQPA7.SA,Equatorial Energia Pará
+378,CLSC3.SA,Celesc
+379,IGTI4.SA,Jereissati Participações
+380,IGTI4.SA,Iguatemi
+381,GEPA3.SA,Rio Paranapanema Energia
+382,BNBR3.SA,Banco do Nordeste
+383,DOHL3.SA,Döhler
+384,HETA4.SA,Hercules
+385,PEAB4.SA,Participações Aliança da Bahia
+386,WLMM3.SA,WLM
+387,AFLT3.SA,Afluente T
+388,FRIO3.SA,Metalfrio
+389,COCE3.SA,Coelce
+390,BALM3.SA,Baumer
+391,EUCA3.SA,Eucatex
+392,PLAS3.SA,Plascar
+393,BAUH4.SA,Excelsior
+394,CRPG6.SA,Tronox Pigmentos
+395,LUXM4.SA,Trevisa
+396,FIEI3.SA,Fica
+397,MWET4.SA,Wetzel
+398,EQMA3B.SA,Equatorial Maranhão
+399,PATI4.SA,Panatlântica
+400,RPAD5.SA,Alfa Holdings
+401,CLSA3.SA,ClearSale
+402,CTKA3.SA,Karsten
+403,ESTR3.SA,Estrela
+404,MRSA5B.SA,MRS Logística
+405,MRSA6B.SA,MRS Logística
+406,AHEB3.SA,São Paulo Turismo
+407,JOPA3.SA,Josapar
+408,BDLL4.SA,Bardella
+409,AHEB6.SA,São Paulo Turismo
+410,PINE11.SA,Banco Pine
